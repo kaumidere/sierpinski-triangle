@@ -1,2 +1,2 @@
 # sierpinski-triangle
-fractals in pytholn
+fractals in python
