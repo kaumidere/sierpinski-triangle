@@ -2,7 +2,7 @@
 
 ## Screenshot
 ![Sierpinski Triangle Example](https://cdn.discordapp.com/attachments/1159584309523533924/1178817678438322357/2023-11-27_23.00.32.png?ex=65778683&is=65651183&hm=2d3b43a0c8c1c7e11c5ec32bdeb3bbdfd370686f0c07c03b439cb96b903fde1c&)
-[
+
 ## Video Tutorial
 [Watch the Video](https://youtu.be/KfkSAzM_Z-Q)
 
